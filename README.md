@@ -1,3 +1,3 @@
 # MultiCheckboxes-check
-Hold the shift key to select all the checkboxes between any two selected checkboxes
-live-demo-link
+First check a checkbox and then hold the shift key to check another box . This selects all the checkboxes in between. 
+live-demo-link: https://venky-17.github.io/MultiCheckboxes-check/
